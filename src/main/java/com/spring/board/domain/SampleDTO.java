@@ -1,5 +1,6 @@
 package com.spring.board.domain;
 
+
 import lombok.Data;
 
 @Data
